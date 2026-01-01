@@ -1,5 +1,5 @@
 # Desafio de Automação - SauceDemo
-Este projeto contém automação de testes de Interface (Web) e API utilizando Cypress.
+Este projeto contém automação de testes de Interface (Web) utilizando Cypress.
 
 ## 🚀 Tecnologias
 - Cypress
